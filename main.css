@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Morovis Bakery');
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color:#ffdd99;
+
+}
+/********************
+style of header page
+********************/
+header{
+   font-family:"Morovis Bakery", cursive;
+   font-size: 40px;
+   text-align: center;
+   color: #b32d00;
+   padding-top: 50px;
+   margin-top: -100px;
+}
+h2{
+    text-align: left;
+}
+div{
+    display: inline-block;
+    width: 200px;
+    margin: 50px;
+    vertical-align: top;
+}
+img{width: 100%
+}
+header hgroup h2{
+   
+        text-align: left;
+    
+}
